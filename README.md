@@ -16,5 +16,5 @@ De la nave nos interesa averiguar:
 * Si el elegido está en la nave 
 
 Y también hay hechos que le suceden a la nave
-* Cuando la nave choca, todos sus pasajeros saltan para salvarse y se van de la nave. 
+* Cuando la nave choca, todos sus pasajeros saltan para salvarse y se van de la nave.
 * Cuando la nave acelera, todos sus pasajeros, excepto el elegido, saltan de alegría y permanecen en la nave.	
